@@ -1,29 +1,36 @@
-# airikyousefi.ir
+# airikyousefi.ir 🌐
 
-<div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQFlE-unQT0C6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkd.8QUJIAY-/0/1757144681933?e=1794441600&v=beta&t=7GA9_ZTJtLtfKZy2BPJLHKaHdRQz6PdpAaak1UHmyUA" alt="Airik Yousefi banner" width="100%" /></div>
+> Personal website & portfolio of **Airik Yousefi** — web designer & developer. Fast, bilingual (FA/EN) and SEO-driven.
 
-Personal website and portfolio of **Airik Yousefi** — web design, development and SEO.
+![Live](https://img.shields.io/badge/Live-airikyousefi.ir-c91522?style=flat-square&logo=googlechrome&logoColor=white) ![CMS](https://img.shields.io/badge/WordPress-Custom_Theme-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Speed](https://img.shields.io/badge/Core_Web_Vitals-Optimized-62dc87?style=flat-square&logo=lighthouse&logoColor=white)
 
-## What this project showcases
+## About
 
-- Premium portfolio presentation for web projects
-- WordPress website design and business-focused UI/UX
-- Responsive layouts with performance and SEO in mind
-- Case studies for business, e-commerce, industrial and educational brands
+This is my personal home on the internet — where I publish case studies, articles and services. The site is built on **WordPress with a fully custom-designed theme**, engineered around three principles I promise every client:
 
-## Services
+| Principle | What it means here |
+|---|---|
+| **Clear Path** (مسیر روشن) | Simple navigation — visitors find what they need in seconds |
+| **Fast Experience** (تجربه سریع) | Optimized images, lean assets, Core Web Vitals in the green |
+| **Real Partnership** (همراهی واقعی) | Real content, real case studies — no filler |
 
-- WordPress website design
-- Custom ASP.NET and C# development
-- Responsive UI/UX design
-- SEO and Core Web Vitals optimization
+## Features
 
-## Explore
+- 🎨 Custom WordPress theme (no page-builder bloat)
+- 🚀 Performance-first: lazy loading, optimized media, caching
+- 🔍 On-page SEO: semantic headings, meta structure, schema-ready markup
+- 📱 Fully responsive & bilingual-ready (Persian / English)
+- 📈 Built to rank: targeted for "web designer" related queries in Persian market
 
-- 🌐 [Website](https://airikyousefi.ir/)
-- 🧩 [Portfolio and case studies](https://airikyousefi.ir/portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/airik-yousefi-4719b9381/)
+## Visit
 
-## Built by
+- 🌐 Live site: [airikyousefi.ir](https://airikyousefi.ir/)
+- 💼 Case studies: [airikyousefi.ir/portfolio](https://airikyousefi.ir/portfolio/)
 
-**Airik Yousefi** — Web Designer & Developer
+## Developer
+
+Designed & developed by [Airik Yousefi](https://github.com/airikyousefi) — Web Designer & Developer (WordPress, ASP.NET, C#, SEO).
+
+---
+
+If you like this project, consider **following me** on GitHub and giving it a **star**.
